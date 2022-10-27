@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks",
+  "display": {
+    "icon": {
+      "item": "minecraft:honeycomb_block"
+    },
+    "title": {
+      "translate": "block.minecraft.honeycomb_block"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "honeycomb_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:honeycomb_block"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["honeycomb_block"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/honeycomb_block"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks/warped_stem",
+  "display": {
+    "icon": {
+      "item": "minecraft:stripped_warped_stem"
+    },
+    "title": {
+      "translate": "block.minecraft.stripped_warped_stem"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "stripped_warped_stem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stripped_warped_stem"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["stripped_warped_stem"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/stripped_warped_stem"
+  }
+}

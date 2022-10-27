@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks/oak_planks",
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_log"
+    },
+    "title": {
+      "translate": "block.minecraft.oak_log"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "oak_log": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oak_log"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["oak_log"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/oak_log"
+  }
+}

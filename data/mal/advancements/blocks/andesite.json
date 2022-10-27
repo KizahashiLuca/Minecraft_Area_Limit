@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks",
+  "display": {
+    "icon": {
+      "item": "minecraft:andesite"
+    },
+    "title": {
+      "translate": "block.minecraft.andesite"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "andesite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:andesite"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["andesite"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/andesite"
+  }
+}

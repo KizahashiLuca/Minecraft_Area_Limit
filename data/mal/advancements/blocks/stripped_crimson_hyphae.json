@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks/crimson_hyphae",
+  "display": {
+    "icon": {
+      "item": "minecraft:stripped_crimson_hyphae"
+    },
+    "title": {
+      "translate": "block.minecraft.stripped_crimson_hyphae"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "stripped_crimson_hyphae": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stripped_crimson_hyphae"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["stripped_crimson_hyphae"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/stripped_crimson_hyphae"
+  }
+}

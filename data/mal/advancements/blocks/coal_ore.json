@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks",
+  "display": {
+    "icon": {
+      "item": "minecraft:coal_ore"
+    },
+    "title": {
+      "translate": "block.minecraft.coal_ore"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "coal_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:coal_ore"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["coal_ore"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/coal_ore"
+  }
+}

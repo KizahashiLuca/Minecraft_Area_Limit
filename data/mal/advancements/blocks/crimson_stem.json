@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks/crimson_planks",
+  "display": {
+    "icon": {
+      "item": "minecraft:crimson_stem"
+    },
+    "title": {
+      "translate": "block.minecraft.crimson_stem"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "crimson_stem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crimson_stem"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["crimson_stem"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/crimson_stem"
+  }
+}

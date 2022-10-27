@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "mal:tick",
+    "mei:ontick"
+  ]
+}

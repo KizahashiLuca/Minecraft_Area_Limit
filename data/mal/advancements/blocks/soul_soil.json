@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks",
+  "display": {
+    "icon": {
+      "item": "minecraft:soul_soil"
+    },
+    "title": {
+      "translate": "block.minecraft.soul_soil"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "soul_soil": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:soul_soil"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["soul_soil"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/soul_soil"
+  }
+}

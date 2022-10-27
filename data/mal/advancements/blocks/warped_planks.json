@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks/warped_nylium",
+  "display": {
+    "icon": {
+      "item": "minecraft:warped_planks"
+    },
+    "title": {
+      "translate": "block.minecraft.warped_planks"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "warped_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:warped_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["warped_planks"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/warped_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "mal:load",
+    "mei:load/main"
+  ]
+}

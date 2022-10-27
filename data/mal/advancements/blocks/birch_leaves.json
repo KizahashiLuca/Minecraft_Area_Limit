@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks/stripped_birch_wood",
+  "display": {
+    "icon": {
+      "item": "minecraft:birch_leaves"
+    },
+    "title": {
+      "translate": "block.minecraft.birch_leaves"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "birch_leaves": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:birch_leaves"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["birch_leaves"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/birch_leaves"
+  }
+}

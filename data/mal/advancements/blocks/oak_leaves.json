@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks/stripped_oak_wood",
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_leaves"
+    },
+    "title": {
+      "translate": "block.minecraft.oak_leaves"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "oak_leaves": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oak_leaves"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["oak_leaves"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/oak_leaves"
+  }
+}
