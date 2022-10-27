@@ -17,4 +17,7 @@ advancement revoke @a everything
 advancement grant @a only mal:blocks
 
 ## Set scoreboard
+scoreboard objectives add BlockCount dummy {"text":"統計"}
+scoreboard objectives setdisplay sidebar BlockCount
+scoreboard players set ブロック数 BlockCount 0
 scoreboard players set #mal Reseted 1
