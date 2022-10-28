@@ -1,0 +1,110 @@
+################################
+## Minecraft Area Limit
+## MC-Version: JE 1.19.2
+## Author    : @KizahashiLuca
+## Date      : 27 Oct 2022
+## Version   : β-1.0
+## Licensed under CC BY-SA 4.0.
+################################
+
+## Set statistics of world border
+execute if score #mal BlockCount matches 1801 run scoreboard players set ワールドボーダー：1801x1801 BlockCount -1
+execute if score #mal BlockCount matches 1802 run scoreboard players set ワールドボーダー：1802x1802 BlockCount -1
+execute if score #mal BlockCount matches 1803 run scoreboard players set ワールドボーダー：1803x1803 BlockCount -1
+execute if score #mal BlockCount matches 1804 run scoreboard players set ワールドボーダー：1804x1804 BlockCount -1
+execute if score #mal BlockCount matches 1805 run scoreboard players set ワールドボーダー：1805x1805 BlockCount -1
+execute if score #mal BlockCount matches 1806 run scoreboard players set ワールドボーダー：1806x1806 BlockCount -1
+execute if score #mal BlockCount matches 1807 run scoreboard players set ワールドボーダー：1807x1807 BlockCount -1
+execute if score #mal BlockCount matches 1808 run scoreboard players set ワールドボーダー：1808x1808 BlockCount -1
+execute if score #mal BlockCount matches 1809 run scoreboard players set ワールドボーダー：1809x1809 BlockCount -1
+execute if score #mal BlockCount matches 1810 run scoreboard players set ワールドボーダー：1810x1810 BlockCount -1
+execute if score #mal BlockCount matches 1811 run scoreboard players set ワールドボーダー：1811x1811 BlockCount -1
+execute if score #mal BlockCount matches 1812 run scoreboard players set ワールドボーダー：1812x1812 BlockCount -1
+execute if score #mal BlockCount matches 1813 run scoreboard players set ワールドボーダー：1813x1813 BlockCount -1
+execute if score #mal BlockCount matches 1814 run scoreboard players set ワールドボーダー：1814x1814 BlockCount -1
+execute if score #mal BlockCount matches 1815 run scoreboard players set ワールドボーダー：1815x1815 BlockCount -1
+execute if score #mal BlockCount matches 1816 run scoreboard players set ワールドボーダー：1816x1816 BlockCount -1
+execute if score #mal BlockCount matches 1817 run scoreboard players set ワールドボーダー：1817x1817 BlockCount -1
+execute if score #mal BlockCount matches 1818 run scoreboard players set ワールドボーダー：1818x1818 BlockCount -1
+execute if score #mal BlockCount matches 1819 run scoreboard players set ワールドボーダー：1819x1819 BlockCount -1
+execute if score #mal BlockCount matches 1820 run scoreboard players set ワールドボーダー：1820x1820 BlockCount -1
+execute if score #mal BlockCount matches 1821 run scoreboard players set ワールドボーダー：1821x1821 BlockCount -1
+execute if score #mal BlockCount matches 1822 run scoreboard players set ワールドボーダー：1822x1822 BlockCount -1
+execute if score #mal BlockCount matches 1823 run scoreboard players set ワールドボーダー：1823x1823 BlockCount -1
+execute if score #mal BlockCount matches 1824 run scoreboard players set ワールドボーダー：1824x1824 BlockCount -1
+execute if score #mal BlockCount matches 1825 run scoreboard players set ワールドボーダー：1825x1825 BlockCount -1
+execute if score #mal BlockCount matches 1826 run scoreboard players set ワールドボーダー：1826x1826 BlockCount -1
+execute if score #mal BlockCount matches 1827 run scoreboard players set ワールドボーダー：1827x1827 BlockCount -1
+execute if score #mal BlockCount matches 1828 run scoreboard players set ワールドボーダー：1828x1828 BlockCount -1
+execute if score #mal BlockCount matches 1829 run scoreboard players set ワールドボーダー：1829x1829 BlockCount -1
+execute if score #mal BlockCount matches 1830 run scoreboard players set ワールドボーダー：1830x1830 BlockCount -1
+execute if score #mal BlockCount matches 1831 run scoreboard players set ワールドボーダー：1831x1831 BlockCount -1
+execute if score #mal BlockCount matches 1832 run scoreboard players set ワールドボーダー：1832x1832 BlockCount -1
+execute if score #mal BlockCount matches 1833 run scoreboard players set ワールドボーダー：1833x1833 BlockCount -1
+execute if score #mal BlockCount matches 1834 run scoreboard players set ワールドボーダー：1834x1834 BlockCount -1
+execute if score #mal BlockCount matches 1835 run scoreboard players set ワールドボーダー：1835x1835 BlockCount -1
+execute if score #mal BlockCount matches 1836 run scoreboard players set ワールドボーダー：1836x1836 BlockCount -1
+execute if score #mal BlockCount matches 1837 run scoreboard players set ワールドボーダー：1837x1837 BlockCount -1
+execute if score #mal BlockCount matches 1838 run scoreboard players set ワールドボーダー：1838x1838 BlockCount -1
+execute if score #mal BlockCount matches 1839 run scoreboard players set ワールドボーダー：1839x1839 BlockCount -1
+execute if score #mal BlockCount matches 1840 run scoreboard players set ワールドボーダー：1840x1840 BlockCount -1
+execute if score #mal BlockCount matches 1841 run scoreboard players set ワールドボーダー：1841x1841 BlockCount -1
+execute if score #mal BlockCount matches 1842 run scoreboard players set ワールドボーダー：1842x1842 BlockCount -1
+execute if score #mal BlockCount matches 1843 run scoreboard players set ワールドボーダー：1843x1843 BlockCount -1
+execute if score #mal BlockCount matches 1844 run scoreboard players set ワールドボーダー：1844x1844 BlockCount -1
+execute if score #mal BlockCount matches 1845 run scoreboard players set ワールドボーダー：1845x1845 BlockCount -1
+execute if score #mal BlockCount matches 1846 run scoreboard players set ワールドボーダー：1846x1846 BlockCount -1
+execute if score #mal BlockCount matches 1847 run scoreboard players set ワールドボーダー：1847x1847 BlockCount -1
+execute if score #mal BlockCount matches 1848 run scoreboard players set ワールドボーダー：1848x1848 BlockCount -1
+execute if score #mal BlockCount matches 1849 run scoreboard players set ワールドボーダー：1849x1849 BlockCount -1
+execute if score #mal BlockCount matches 1850 run scoreboard players set ワールドボーダー：1850x1850 BlockCount -1
+execute if score #mal BlockCount matches 1851 run scoreboard players set ワールドボーダー：1851x1851 BlockCount -1
+execute if score #mal BlockCount matches 1852 run scoreboard players set ワールドボーダー：1852x1852 BlockCount -1
+execute if score #mal BlockCount matches 1853 run scoreboard players set ワールドボーダー：1853x1853 BlockCount -1
+execute if score #mal BlockCount matches 1854 run scoreboard players set ワールドボーダー：1854x1854 BlockCount -1
+execute if score #mal BlockCount matches 1855 run scoreboard players set ワールドボーダー：1855x1855 BlockCount -1
+execute if score #mal BlockCount matches 1856 run scoreboard players set ワールドボーダー：1856x1856 BlockCount -1
+execute if score #mal BlockCount matches 1857 run scoreboard players set ワールドボーダー：1857x1857 BlockCount -1
+execute if score #mal BlockCount matches 1858 run scoreboard players set ワールドボーダー：1858x1858 BlockCount -1
+execute if score #mal BlockCount matches 1859 run scoreboard players set ワールドボーダー：1859x1859 BlockCount -1
+execute if score #mal BlockCount matches 1860 run scoreboard players set ワールドボーダー：1860x1860 BlockCount -1
+execute if score #mal BlockCount matches 1861 run scoreboard players set ワールドボーダー：1861x1861 BlockCount -1
+execute if score #mal BlockCount matches 1862 run scoreboard players set ワールドボーダー：1862x1862 BlockCount -1
+execute if score #mal BlockCount matches 1863 run scoreboard players set ワールドボーダー：1863x1863 BlockCount -1
+execute if score #mal BlockCount matches 1864 run scoreboard players set ワールドボーダー：1864x1864 BlockCount -1
+execute if score #mal BlockCount matches 1865 run scoreboard players set ワールドボーダー：1865x1865 BlockCount -1
+execute if score #mal BlockCount matches 1866 run scoreboard players set ワールドボーダー：1866x1866 BlockCount -1
+execute if score #mal BlockCount matches 1867 run scoreboard players set ワールドボーダー：1867x1867 BlockCount -1
+execute if score #mal BlockCount matches 1868 run scoreboard players set ワールドボーダー：1868x1868 BlockCount -1
+execute if score #mal BlockCount matches 1869 run scoreboard players set ワールドボーダー：1869x1869 BlockCount -1
+execute if score #mal BlockCount matches 1870 run scoreboard players set ワールドボーダー：1870x1870 BlockCount -1
+execute if score #mal BlockCount matches 1871 run scoreboard players set ワールドボーダー：1871x1871 BlockCount -1
+execute if score #mal BlockCount matches 1872 run scoreboard players set ワールドボーダー：1872x1872 BlockCount -1
+execute if score #mal BlockCount matches 1873 run scoreboard players set ワールドボーダー：1873x1873 BlockCount -1
+execute if score #mal BlockCount matches 1874 run scoreboard players set ワールドボーダー：1874x1874 BlockCount -1
+execute if score #mal BlockCount matches 1875 run scoreboard players set ワールドボーダー：1875x1875 BlockCount -1
+execute if score #mal BlockCount matches 1876 run scoreboard players set ワールドボーダー：1876x1876 BlockCount -1
+execute if score #mal BlockCount matches 1877 run scoreboard players set ワールドボーダー：1877x1877 BlockCount -1
+execute if score #mal BlockCount matches 1878 run scoreboard players set ワールドボーダー：1878x1878 BlockCount -1
+execute if score #mal BlockCount matches 1879 run scoreboard players set ワールドボーダー：1879x1879 BlockCount -1
+execute if score #mal BlockCount matches 1880 run scoreboard players set ワールドボーダー：1880x1880 BlockCount -1
+execute if score #mal BlockCount matches 1881 run scoreboard players set ワールドボーダー：1881x1881 BlockCount -1
+execute if score #mal BlockCount matches 1882 run scoreboard players set ワールドボーダー：1882x1882 BlockCount -1
+execute if score #mal BlockCount matches 1883 run scoreboard players set ワールドボーダー：1883x1883 BlockCount -1
+execute if score #mal BlockCount matches 1884 run scoreboard players set ワールドボーダー：1884x1884 BlockCount -1
+execute if score #mal BlockCount matches 1885 run scoreboard players set ワールドボーダー：1885x1885 BlockCount -1
+execute if score #mal BlockCount matches 1886 run scoreboard players set ワールドボーダー：1886x1886 BlockCount -1
+execute if score #mal BlockCount matches 1887 run scoreboard players set ワールドボーダー：1887x1887 BlockCount -1
+execute if score #mal BlockCount matches 1888 run scoreboard players set ワールドボーダー：1888x1888 BlockCount -1
+execute if score #mal BlockCount matches 1889 run scoreboard players set ワールドボーダー：1889x1889 BlockCount -1
+execute if score #mal BlockCount matches 1890 run scoreboard players set ワールドボーダー：1890x1890 BlockCount -1
+execute if score #mal BlockCount matches 1891 run scoreboard players set ワールドボーダー：1891x1891 BlockCount -1
+execute if score #mal BlockCount matches 1892 run scoreboard players set ワールドボーダー：1892x1892 BlockCount -1
+execute if score #mal BlockCount matches 1893 run scoreboard players set ワールドボーダー：1893x1893 BlockCount -1
+execute if score #mal BlockCount matches 1894 run scoreboard players set ワールドボーダー：1894x1894 BlockCount -1
+execute if score #mal BlockCount matches 1895 run scoreboard players set ワールドボーダー：1895x1895 BlockCount -1
+execute if score #mal BlockCount matches 1896 run scoreboard players set ワールドボーダー：1896x1896 BlockCount -1
+execute if score #mal BlockCount matches 1897 run scoreboard players set ワールドボーダー：1897x1897 BlockCount -1
+execute if score #mal BlockCount matches 1898 run scoreboard players set ワールドボーダー：1898x1898 BlockCount -1
+execute if score #mal BlockCount matches 1899 run scoreboard players set ワールドボーダー：1899x1899 BlockCount -1
+execute if score #mal BlockCount matches 1900 run scoreboard players set ワールドボーダー：1900x1900 BlockCount -1

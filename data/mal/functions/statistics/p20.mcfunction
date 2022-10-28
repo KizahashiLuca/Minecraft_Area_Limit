@@ -1,0 +1,110 @@
+################################
+## Minecraft Area Limit
+## MC-Version: JE 1.19.2
+## Author    : @KizahashiLuca
+## Date      : 27 Oct 2022
+## Version   : β-1.0
+## Licensed under CC BY-SA 4.0.
+################################
+
+## Set statistics of world border
+execute if score #mal BlockCount matches 1901 run scoreboard players set ワールドボーダー：1901x1901 BlockCount -1
+execute if score #mal BlockCount matches 1902 run scoreboard players set ワールドボーダー：1902x1902 BlockCount -1
+execute if score #mal BlockCount matches 1903 run scoreboard players set ワールドボーダー：1903x1903 BlockCount -1
+execute if score #mal BlockCount matches 1904 run scoreboard players set ワールドボーダー：1904x1904 BlockCount -1
+execute if score #mal BlockCount matches 1905 run scoreboard players set ワールドボーダー：1905x1905 BlockCount -1
+execute if score #mal BlockCount matches 1906 run scoreboard players set ワールドボーダー：1906x1906 BlockCount -1
+execute if score #mal BlockCount matches 1907 run scoreboard players set ワールドボーダー：1907x1907 BlockCount -1
+execute if score #mal BlockCount matches 1908 run scoreboard players set ワールドボーダー：1908x1908 BlockCount -1
+execute if score #mal BlockCount matches 1909 run scoreboard players set ワールドボーダー：1909x1909 BlockCount -1
+execute if score #mal BlockCount matches 1910 run scoreboard players set ワールドボーダー：1910x1910 BlockCount -1
+execute if score #mal BlockCount matches 1911 run scoreboard players set ワールドボーダー：1911x1911 BlockCount -1
+execute if score #mal BlockCount matches 1912 run scoreboard players set ワールドボーダー：1912x1912 BlockCount -1
+execute if score #mal BlockCount matches 1913 run scoreboard players set ワールドボーダー：1913x1913 BlockCount -1
+execute if score #mal BlockCount matches 1914 run scoreboard players set ワールドボーダー：1914x1914 BlockCount -1
+execute if score #mal BlockCount matches 1915 run scoreboard players set ワールドボーダー：1915x1915 BlockCount -1
+execute if score #mal BlockCount matches 1916 run scoreboard players set ワールドボーダー：1916x1916 BlockCount -1
+execute if score #mal BlockCount matches 1917 run scoreboard players set ワールドボーダー：1917x1917 BlockCount -1
+execute if score #mal BlockCount matches 1918 run scoreboard players set ワールドボーダー：1918x1918 BlockCount -1
+execute if score #mal BlockCount matches 1919 run scoreboard players set ワールドボーダー：1919x1919 BlockCount -1
+execute if score #mal BlockCount matches 1920 run scoreboard players set ワールドボーダー：1920x1920 BlockCount -1
+execute if score #mal BlockCount matches 1921 run scoreboard players set ワールドボーダー：1921x1921 BlockCount -1
+execute if score #mal BlockCount matches 1922 run scoreboard players set ワールドボーダー：1922x1922 BlockCount -1
+execute if score #mal BlockCount matches 1923 run scoreboard players set ワールドボーダー：1923x1923 BlockCount -1
+execute if score #mal BlockCount matches 1924 run scoreboard players set ワールドボーダー：1924x1924 BlockCount -1
+execute if score #mal BlockCount matches 1925 run scoreboard players set ワールドボーダー：1925x1925 BlockCount -1
+execute if score #mal BlockCount matches 1926 run scoreboard players set ワールドボーダー：1926x1926 BlockCount -1
+execute if score #mal BlockCount matches 1927 run scoreboard players set ワールドボーダー：1927x1927 BlockCount -1
+execute if score #mal BlockCount matches 1928 run scoreboard players set ワールドボーダー：1928x1928 BlockCount -1
+execute if score #mal BlockCount matches 1929 run scoreboard players set ワールドボーダー：1929x1929 BlockCount -1
+execute if score #mal BlockCount matches 1930 run scoreboard players set ワールドボーダー：1930x1930 BlockCount -1
+execute if score #mal BlockCount matches 1931 run scoreboard players set ワールドボーダー：1931x1931 BlockCount -1
+execute if score #mal BlockCount matches 1932 run scoreboard players set ワールドボーダー：1932x1932 BlockCount -1
+execute if score #mal BlockCount matches 1933 run scoreboard players set ワールドボーダー：1933x1933 BlockCount -1
+execute if score #mal BlockCount matches 1934 run scoreboard players set ワールドボーダー：1934x1934 BlockCount -1
+execute if score #mal BlockCount matches 1935 run scoreboard players set ワールドボーダー：1935x1935 BlockCount -1
+execute if score #mal BlockCount matches 1936 run scoreboard players set ワールドボーダー：1936x1936 BlockCount -1
+execute if score #mal BlockCount matches 1937 run scoreboard players set ワールドボーダー：1937x1937 BlockCount -1
+execute if score #mal BlockCount matches 1938 run scoreboard players set ワールドボーダー：1938x1938 BlockCount -1
+execute if score #mal BlockCount matches 1939 run scoreboard players set ワールドボーダー：1939x1939 BlockCount -1
+execute if score #mal BlockCount matches 1940 run scoreboard players set ワールドボーダー：1940x1940 BlockCount -1
+execute if score #mal BlockCount matches 1941 run scoreboard players set ワールドボーダー：1941x1941 BlockCount -1
+execute if score #mal BlockCount matches 1942 run scoreboard players set ワールドボーダー：1942x1942 BlockCount -1
+execute if score #mal BlockCount matches 1943 run scoreboard players set ワールドボーダー：1943x1943 BlockCount -1
+execute if score #mal BlockCount matches 1944 run scoreboard players set ワールドボーダー：1944x1944 BlockCount -1
+execute if score #mal BlockCount matches 1945 run scoreboard players set ワールドボーダー：1945x1945 BlockCount -1
+execute if score #mal BlockCount matches 1946 run scoreboard players set ワールドボーダー：1946x1946 BlockCount -1
+execute if score #mal BlockCount matches 1947 run scoreboard players set ワールドボーダー：1947x1947 BlockCount -1
+execute if score #mal BlockCount matches 1948 run scoreboard players set ワールドボーダー：1948x1948 BlockCount -1
+execute if score #mal BlockCount matches 1949 run scoreboard players set ワールドボーダー：1949x1949 BlockCount -1
+execute if score #mal BlockCount matches 1950 run scoreboard players set ワールドボーダー：1950x1950 BlockCount -1
+execute if score #mal BlockCount matches 1951 run scoreboard players set ワールドボーダー：1951x1951 BlockCount -1
+execute if score #mal BlockCount matches 1952 run scoreboard players set ワールドボーダー：1952x1952 BlockCount -1
+execute if score #mal BlockCount matches 1953 run scoreboard players set ワールドボーダー：1953x1953 BlockCount -1
+execute if score #mal BlockCount matches 1954 run scoreboard players set ワールドボーダー：1954x1954 BlockCount -1
+execute if score #mal BlockCount matches 1955 run scoreboard players set ワールドボーダー：1955x1955 BlockCount -1
+execute if score #mal BlockCount matches 1956 run scoreboard players set ワールドボーダー：1956x1956 BlockCount -1
+execute if score #mal BlockCount matches 1957 run scoreboard players set ワールドボーダー：1957x1957 BlockCount -1
+execute if score #mal BlockCount matches 1958 run scoreboard players set ワールドボーダー：1958x1958 BlockCount -1
+execute if score #mal BlockCount matches 1959 run scoreboard players set ワールドボーダー：1959x1959 BlockCount -1
+execute if score #mal BlockCount matches 1960 run scoreboard players set ワールドボーダー：1960x1960 BlockCount -1
+execute if score #mal BlockCount matches 1961 run scoreboard players set ワールドボーダー：1961x1961 BlockCount -1
+execute if score #mal BlockCount matches 1962 run scoreboard players set ワールドボーダー：1962x1962 BlockCount -1
+execute if score #mal BlockCount matches 1963 run scoreboard players set ワールドボーダー：1963x1963 BlockCount -1
+execute if score #mal BlockCount matches 1964 run scoreboard players set ワールドボーダー：1964x1964 BlockCount -1
+execute if score #mal BlockCount matches 1965 run scoreboard players set ワールドボーダー：1965x1965 BlockCount -1
+execute if score #mal BlockCount matches 1966 run scoreboard players set ワールドボーダー：1966x1966 BlockCount -1
+execute if score #mal BlockCount matches 1967 run scoreboard players set ワールドボーダー：1967x1967 BlockCount -1
+execute if score #mal BlockCount matches 1968 run scoreboard players set ワールドボーダー：1968x1968 BlockCount -1
+execute if score #mal BlockCount matches 1969 run scoreboard players set ワールドボーダー：1969x1969 BlockCount -1
+execute if score #mal BlockCount matches 1970 run scoreboard players set ワールドボーダー：1970x1970 BlockCount -1
+execute if score #mal BlockCount matches 1971 run scoreboard players set ワールドボーダー：1971x1971 BlockCount -1
+execute if score #mal BlockCount matches 1972 run scoreboard players set ワールドボーダー：1972x1972 BlockCount -1
+execute if score #mal BlockCount matches 1973 run scoreboard players set ワールドボーダー：1973x1973 BlockCount -1
+execute if score #mal BlockCount matches 1974 run scoreboard players set ワールドボーダー：1974x1974 BlockCount -1
+execute if score #mal BlockCount matches 1975 run scoreboard players set ワールドボーダー：1975x1975 BlockCount -1
+execute if score #mal BlockCount matches 1976 run scoreboard players set ワールドボーダー：1976x1976 BlockCount -1
+execute if score #mal BlockCount matches 1977 run scoreboard players set ワールドボーダー：1977x1977 BlockCount -1
+execute if score #mal BlockCount matches 1978 run scoreboard players set ワールドボーダー：1978x1978 BlockCount -1
+execute if score #mal BlockCount matches 1979 run scoreboard players set ワールドボーダー：1979x1979 BlockCount -1
+execute if score #mal BlockCount matches 1980 run scoreboard players set ワールドボーダー：1980x1980 BlockCount -1
+execute if score #mal BlockCount matches 1981 run scoreboard players set ワールドボーダー：1981x1981 BlockCount -1
+execute if score #mal BlockCount matches 1982 run scoreboard players set ワールドボーダー：1982x1982 BlockCount -1
+execute if score #mal BlockCount matches 1983 run scoreboard players set ワールドボーダー：1983x1983 BlockCount -1
+execute if score #mal BlockCount matches 1984 run scoreboard players set ワールドボーダー：1984x1984 BlockCount -1
+execute if score #mal BlockCount matches 1985 run scoreboard players set ワールドボーダー：1985x1985 BlockCount -1
+execute if score #mal BlockCount matches 1986 run scoreboard players set ワールドボーダー：1986x1986 BlockCount -1
+execute if score #mal BlockCount matches 1987 run scoreboard players set ワールドボーダー：1987x1987 BlockCount -1
+execute if score #mal BlockCount matches 1988 run scoreboard players set ワールドボーダー：1988x1988 BlockCount -1
+execute if score #mal BlockCount matches 1989 run scoreboard players set ワールドボーダー：1989x1989 BlockCount -1
+execute if score #mal BlockCount matches 1990 run scoreboard players set ワールドボーダー：1990x1990 BlockCount -1
+execute if score #mal BlockCount matches 1991 run scoreboard players set ワールドボーダー：1991x1991 BlockCount -1
+execute if score #mal BlockCount matches 1992 run scoreboard players set ワールドボーダー：1992x1992 BlockCount -1
+execute if score #mal BlockCount matches 1993 run scoreboard players set ワールドボーダー：1993x1993 BlockCount -1
+execute if score #mal BlockCount matches 1994 run scoreboard players set ワールドボーダー：1994x1994 BlockCount -1
+execute if score #mal BlockCount matches 1995 run scoreboard players set ワールドボーダー：1995x1995 BlockCount -1
+execute if score #mal BlockCount matches 1996 run scoreboard players set ワールドボーダー：1996x1996 BlockCount -1
+execute if score #mal BlockCount matches 1997 run scoreboard players set ワールドボーダー：1997x1997 BlockCount -1
+execute if score #mal BlockCount matches 1998 run scoreboard players set ワールドボーダー：1998x1998 BlockCount -1
+execute if score #mal BlockCount matches 1999 run scoreboard players set ワールドボーダー：1999x1999 BlockCount -1
+execute if score #mal BlockCount matches 2000 run scoreboard players set ワールドボーダー：2000x2000 BlockCount -1

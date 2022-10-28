@@ -1,0 +1,110 @@
+################################
+## Minecraft Area Limit
+## MC-Version: JE 1.19.2
+## Author    : @KizahashiLuca
+## Date      : 27 Oct 2022
+## Version   : β-1.0
+## Licensed under CC BY-SA 4.0.
+################################
+
+## Set statistics of world border
+execute if score #mal BlockCount matches 2801 run scoreboard players set ワールドボーダー：2801x2801 BlockCount -1
+execute if score #mal BlockCount matches 2802 run scoreboard players set ワールドボーダー：2802x2802 BlockCount -1
+execute if score #mal BlockCount matches 2803 run scoreboard players set ワールドボーダー：2803x2803 BlockCount -1
+execute if score #mal BlockCount matches 2804 run scoreboard players set ワールドボーダー：2804x2804 BlockCount -1
+execute if score #mal BlockCount matches 2805 run scoreboard players set ワールドボーダー：2805x2805 BlockCount -1
+execute if score #mal BlockCount matches 2806 run scoreboard players set ワールドボーダー：2806x2806 BlockCount -1
+execute if score #mal BlockCount matches 2807 run scoreboard players set ワールドボーダー：2807x2807 BlockCount -1
+execute if score #mal BlockCount matches 2808 run scoreboard players set ワールドボーダー：2808x2808 BlockCount -1
+execute if score #mal BlockCount matches 2809 run scoreboard players set ワールドボーダー：2809x2809 BlockCount -1
+execute if score #mal BlockCount matches 2810 run scoreboard players set ワールドボーダー：2810x2810 BlockCount -1
+execute if score #mal BlockCount matches 2811 run scoreboard players set ワールドボーダー：2811x2811 BlockCount -1
+execute if score #mal BlockCount matches 2812 run scoreboard players set ワールドボーダー：2812x2812 BlockCount -1
+execute if score #mal BlockCount matches 2813 run scoreboard players set ワールドボーダー：2813x2813 BlockCount -1
+execute if score #mal BlockCount matches 2814 run scoreboard players set ワールドボーダー：2814x2814 BlockCount -1
+execute if score #mal BlockCount matches 2815 run scoreboard players set ワールドボーダー：2815x2815 BlockCount -1
+execute if score #mal BlockCount matches 2816 run scoreboard players set ワールドボーダー：2816x2816 BlockCount -1
+execute if score #mal BlockCount matches 2817 run scoreboard players set ワールドボーダー：2817x2817 BlockCount -1
+execute if score #mal BlockCount matches 2818 run scoreboard players set ワールドボーダー：2818x2818 BlockCount -1
+execute if score #mal BlockCount matches 2819 run scoreboard players set ワールドボーダー：2819x2819 BlockCount -1
+execute if score #mal BlockCount matches 2820 run scoreboard players set ワールドボーダー：2820x2820 BlockCount -1
+execute if score #mal BlockCount matches 2821 run scoreboard players set ワールドボーダー：2821x2821 BlockCount -1
+execute if score #mal BlockCount matches 2822 run scoreboard players set ワールドボーダー：2822x2822 BlockCount -1
+execute if score #mal BlockCount matches 2823 run scoreboard players set ワールドボーダー：2823x2823 BlockCount -1
+execute if score #mal BlockCount matches 2824 run scoreboard players set ワールドボーダー：2824x2824 BlockCount -1
+execute if score #mal BlockCount matches 2825 run scoreboard players set ワールドボーダー：2825x2825 BlockCount -1
+execute if score #mal BlockCount matches 2826 run scoreboard players set ワールドボーダー：2826x2826 BlockCount -1
+execute if score #mal BlockCount matches 2827 run scoreboard players set ワールドボーダー：2827x2827 BlockCount -1
+execute if score #mal BlockCount matches 2828 run scoreboard players set ワールドボーダー：2828x2828 BlockCount -1
+execute if score #mal BlockCount matches 2829 run scoreboard players set ワールドボーダー：2829x2829 BlockCount -1
+execute if score #mal BlockCount matches 2830 run scoreboard players set ワールドボーダー：2830x2830 BlockCount -1
+execute if score #mal BlockCount matches 2831 run scoreboard players set ワールドボーダー：2831x2831 BlockCount -1
+execute if score #mal BlockCount matches 2832 run scoreboard players set ワールドボーダー：2832x2832 BlockCount -1
+execute if score #mal BlockCount matches 2833 run scoreboard players set ワールドボーダー：2833x2833 BlockCount -1
+execute if score #mal BlockCount matches 2834 run scoreboard players set ワールドボーダー：2834x2834 BlockCount -1
+execute if score #mal BlockCount matches 2835 run scoreboard players set ワールドボーダー：2835x2835 BlockCount -1
+execute if score #mal BlockCount matches 2836 run scoreboard players set ワールドボーダー：2836x2836 BlockCount -1
+execute if score #mal BlockCount matches 2837 run scoreboard players set ワールドボーダー：2837x2837 BlockCount -1
+execute if score #mal BlockCount matches 2838 run scoreboard players set ワールドボーダー：2838x2838 BlockCount -1
+execute if score #mal BlockCount matches 2839 run scoreboard players set ワールドボーダー：2839x2839 BlockCount -1
+execute if score #mal BlockCount matches 2840 run scoreboard players set ワールドボーダー：2840x2840 BlockCount -1
+execute if score #mal BlockCount matches 2841 run scoreboard players set ワールドボーダー：2841x2841 BlockCount -1
+execute if score #mal BlockCount matches 2842 run scoreboard players set ワールドボーダー：2842x2842 BlockCount -1
+execute if score #mal BlockCount matches 2843 run scoreboard players set ワールドボーダー：2843x2843 BlockCount -1
+execute if score #mal BlockCount matches 2844 run scoreboard players set ワールドボーダー：2844x2844 BlockCount -1
+execute if score #mal BlockCount matches 2845 run scoreboard players set ワールドボーダー：2845x2845 BlockCount -1
+execute if score #mal BlockCount matches 2846 run scoreboard players set ワールドボーダー：2846x2846 BlockCount -1
+execute if score #mal BlockCount matches 2847 run scoreboard players set ワールドボーダー：2847x2847 BlockCount -1
+execute if score #mal BlockCount matches 2848 run scoreboard players set ワールドボーダー：2848x2848 BlockCount -1
+execute if score #mal BlockCount matches 2849 run scoreboard players set ワールドボーダー：2849x2849 BlockCount -1
+execute if score #mal BlockCount matches 2850 run scoreboard players set ワールドボーダー：2850x2850 BlockCount -1
+execute if score #mal BlockCount matches 2851 run scoreboard players set ワールドボーダー：2851x2851 BlockCount -1
+execute if score #mal BlockCount matches 2852 run scoreboard players set ワールドボーダー：2852x2852 BlockCount -1
+execute if score #mal BlockCount matches 2853 run scoreboard players set ワールドボーダー：2853x2853 BlockCount -1
+execute if score #mal BlockCount matches 2854 run scoreboard players set ワールドボーダー：2854x2854 BlockCount -1
+execute if score #mal BlockCount matches 2855 run scoreboard players set ワールドボーダー：2855x2855 BlockCount -1
+execute if score #mal BlockCount matches 2856 run scoreboard players set ワールドボーダー：2856x2856 BlockCount -1
+execute if score #mal BlockCount matches 2857 run scoreboard players set ワールドボーダー：2857x2857 BlockCount -1
+execute if score #mal BlockCount matches 2858 run scoreboard players set ワールドボーダー：2858x2858 BlockCount -1
+execute if score #mal BlockCount matches 2859 run scoreboard players set ワールドボーダー：2859x2859 BlockCount -1
+execute if score #mal BlockCount matches 2860 run scoreboard players set ワールドボーダー：2860x2860 BlockCount -1
+execute if score #mal BlockCount matches 2861 run scoreboard players set ワールドボーダー：2861x2861 BlockCount -1
+execute if score #mal BlockCount matches 2862 run scoreboard players set ワールドボーダー：2862x2862 BlockCount -1
+execute if score #mal BlockCount matches 2863 run scoreboard players set ワールドボーダー：2863x2863 BlockCount -1
+execute if score #mal BlockCount matches 2864 run scoreboard players set ワールドボーダー：2864x2864 BlockCount -1
+execute if score #mal BlockCount matches 2865 run scoreboard players set ワールドボーダー：2865x2865 BlockCount -1
+execute if score #mal BlockCount matches 2866 run scoreboard players set ワールドボーダー：2866x2866 BlockCount -1
+execute if score #mal BlockCount matches 2867 run scoreboard players set ワールドボーダー：2867x2867 BlockCount -1
+execute if score #mal BlockCount matches 2868 run scoreboard players set ワールドボーダー：2868x2868 BlockCount -1
+execute if score #mal BlockCount matches 2869 run scoreboard players set ワールドボーダー：2869x2869 BlockCount -1
+execute if score #mal BlockCount matches 2870 run scoreboard players set ワールドボーダー：2870x2870 BlockCount -1
+execute if score #mal BlockCount matches 2871 run scoreboard players set ワールドボーダー：2871x2871 BlockCount -1
+execute if score #mal BlockCount matches 2872 run scoreboard players set ワールドボーダー：2872x2872 BlockCount -1
+execute if score #mal BlockCount matches 2873 run scoreboard players set ワールドボーダー：2873x2873 BlockCount -1
+execute if score #mal BlockCount matches 2874 run scoreboard players set ワールドボーダー：2874x2874 BlockCount -1
+execute if score #mal BlockCount matches 2875 run scoreboard players set ワールドボーダー：2875x2875 BlockCount -1
+execute if score #mal BlockCount matches 2876 run scoreboard players set ワールドボーダー：2876x2876 BlockCount -1
+execute if score #mal BlockCount matches 2877 run scoreboard players set ワールドボーダー：2877x2877 BlockCount -1
+execute if score #mal BlockCount matches 2878 run scoreboard players set ワールドボーダー：2878x2878 BlockCount -1
+execute if score #mal BlockCount matches 2879 run scoreboard players set ワールドボーダー：2879x2879 BlockCount -1
+execute if score #mal BlockCount matches 2880 run scoreboard players set ワールドボーダー：2880x2880 BlockCount -1
+execute if score #mal BlockCount matches 2881 run scoreboard players set ワールドボーダー：2881x2881 BlockCount -1
+execute if score #mal BlockCount matches 2882 run scoreboard players set ワールドボーダー：2882x2882 BlockCount -1
+execute if score #mal BlockCount matches 2883 run scoreboard players set ワールドボーダー：2883x2883 BlockCount -1
+execute if score #mal BlockCount matches 2884 run scoreboard players set ワールドボーダー：2884x2884 BlockCount -1
+execute if score #mal BlockCount matches 2885 run scoreboard players set ワールドボーダー：2885x2885 BlockCount -1
+execute if score #mal BlockCount matches 2886 run scoreboard players set ワールドボーダー：2886x2886 BlockCount -1
+execute if score #mal BlockCount matches 2887 run scoreboard players set ワールドボーダー：2887x2887 BlockCount -1
+execute if score #mal BlockCount matches 2888 run scoreboard players set ワールドボーダー：2888x2888 BlockCount -1
+execute if score #mal BlockCount matches 2889 run scoreboard players set ワールドボーダー：2889x2889 BlockCount -1
+execute if score #mal BlockCount matches 2890 run scoreboard players set ワールドボーダー：2890x2890 BlockCount -1
+execute if score #mal BlockCount matches 2891 run scoreboard players set ワールドボーダー：2891x2891 BlockCount -1
+execute if score #mal BlockCount matches 2892 run scoreboard players set ワールドボーダー：2892x2892 BlockCount -1
+execute if score #mal BlockCount matches 2893 run scoreboard players set ワールドボーダー：2893x2893 BlockCount -1
+execute if score #mal BlockCount matches 2894 run scoreboard players set ワールドボーダー：2894x2894 BlockCount -1
+execute if score #mal BlockCount matches 2895 run scoreboard players set ワールドボーダー：2895x2895 BlockCount -1
+execute if score #mal BlockCount matches 2896 run scoreboard players set ワールドボーダー：2896x2896 BlockCount -1
+execute if score #mal BlockCount matches 2897 run scoreboard players set ワールドボーダー：2897x2897 BlockCount -1
+execute if score #mal BlockCount matches 2898 run scoreboard players set ワールドボーダー：2898x2898 BlockCount -1
+execute if score #mal BlockCount matches 2899 run scoreboard players set ワールドボーダー：2899x2899 BlockCount -1
+execute if score #mal BlockCount matches 2900 run scoreboard players set ワールドボーダー：2900x2900 BlockCount -1

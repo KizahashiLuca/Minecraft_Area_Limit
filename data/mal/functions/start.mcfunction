@@ -20,5 +20,7 @@ advancement grant @a only mal:blocks
 scoreboard objectives add BlockCount dummy {"text":"統計"}
 scoreboard objectives setdisplay sidebar BlockCount
 scoreboard players set ブロック数 BlockCount 0
-execute store result score ワールドボーダー BlockCount run worldborder get
 scoreboard players set #mal Reseted 1
+
+## Set statistics
+function mal:statistics/main

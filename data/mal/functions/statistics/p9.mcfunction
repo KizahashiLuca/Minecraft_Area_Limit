@@ -1,0 +1,110 @@
+################################
+## Minecraft Area Limit
+## MC-Version: JE 1.19.2
+## Author    : @KizahashiLuca
+## Date      : 27 Oct 2022
+## Version   : β-1.0
+## Licensed under CC BY-SA 4.0.
+################################
+
+## Set statistics of world border
+execute if score #mal BlockCount matches 801 run scoreboard players set ワールドボーダー：801x801 BlockCount -1
+execute if score #mal BlockCount matches 802 run scoreboard players set ワールドボーダー：802x802 BlockCount -1
+execute if score #mal BlockCount matches 803 run scoreboard players set ワールドボーダー：803x803 BlockCount -1
+execute if score #mal BlockCount matches 804 run scoreboard players set ワールドボーダー：804x804 BlockCount -1
+execute if score #mal BlockCount matches 805 run scoreboard players set ワールドボーダー：805x805 BlockCount -1
+execute if score #mal BlockCount matches 806 run scoreboard players set ワールドボーダー：806x806 BlockCount -1
+execute if score #mal BlockCount matches 807 run scoreboard players set ワールドボーダー：807x807 BlockCount -1
+execute if score #mal BlockCount matches 808 run scoreboard players set ワールドボーダー：808x808 BlockCount -1
+execute if score #mal BlockCount matches 809 run scoreboard players set ワールドボーダー：809x809 BlockCount -1
+execute if score #mal BlockCount matches 810 run scoreboard players set ワールドボーダー：810x810 BlockCount -1
+execute if score #mal BlockCount matches 811 run scoreboard players set ワールドボーダー：811x811 BlockCount -1
+execute if score #mal BlockCount matches 812 run scoreboard players set ワールドボーダー：812x812 BlockCount -1
+execute if score #mal BlockCount matches 813 run scoreboard players set ワールドボーダー：813x813 BlockCount -1
+execute if score #mal BlockCount matches 814 run scoreboard players set ワールドボーダー：814x814 BlockCount -1
+execute if score #mal BlockCount matches 815 run scoreboard players set ワールドボーダー：815x815 BlockCount -1
+execute if score #mal BlockCount matches 816 run scoreboard players set ワールドボーダー：816x816 BlockCount -1
+execute if score #mal BlockCount matches 817 run scoreboard players set ワールドボーダー：817x817 BlockCount -1
+execute if score #mal BlockCount matches 818 run scoreboard players set ワールドボーダー：818x818 BlockCount -1
+execute if score #mal BlockCount matches 819 run scoreboard players set ワールドボーダー：819x819 BlockCount -1
+execute if score #mal BlockCount matches 820 run scoreboard players set ワールドボーダー：820x820 BlockCount -1
+execute if score #mal BlockCount matches 821 run scoreboard players set ワールドボーダー：821x821 BlockCount -1
+execute if score #mal BlockCount matches 822 run scoreboard players set ワールドボーダー：822x822 BlockCount -1
+execute if score #mal BlockCount matches 823 run scoreboard players set ワールドボーダー：823x823 BlockCount -1
+execute if score #mal BlockCount matches 824 run scoreboard players set ワールドボーダー：824x824 BlockCount -1
+execute if score #mal BlockCount matches 825 run scoreboard players set ワールドボーダー：825x825 BlockCount -1
+execute if score #mal BlockCount matches 826 run scoreboard players set ワールドボーダー：826x826 BlockCount -1
+execute if score #mal BlockCount matches 827 run scoreboard players set ワールドボーダー：827x827 BlockCount -1
+execute if score #mal BlockCount matches 828 run scoreboard players set ワールドボーダー：828x828 BlockCount -1
+execute if score #mal BlockCount matches 829 run scoreboard players set ワールドボーダー：829x829 BlockCount -1
+execute if score #mal BlockCount matches 830 run scoreboard players set ワールドボーダー：830x830 BlockCount -1
+execute if score #mal BlockCount matches 831 run scoreboard players set ワールドボーダー：831x831 BlockCount -1
+execute if score #mal BlockCount matches 832 run scoreboard players set ワールドボーダー：832x832 BlockCount -1
+execute if score #mal BlockCount matches 833 run scoreboard players set ワールドボーダー：833x833 BlockCount -1
+execute if score #mal BlockCount matches 834 run scoreboard players set ワールドボーダー：834x834 BlockCount -1
+execute if score #mal BlockCount matches 835 run scoreboard players set ワールドボーダー：835x835 BlockCount -1
+execute if score #mal BlockCount matches 836 run scoreboard players set ワールドボーダー：836x836 BlockCount -1
+execute if score #mal BlockCount matches 837 run scoreboard players set ワールドボーダー：837x837 BlockCount -1
+execute if score #mal BlockCount matches 838 run scoreboard players set ワールドボーダー：838x838 BlockCount -1
+execute if score #mal BlockCount matches 839 run scoreboard players set ワールドボーダー：839x839 BlockCount -1
+execute if score #mal BlockCount matches 840 run scoreboard players set ワールドボーダー：840x840 BlockCount -1
+execute if score #mal BlockCount matches 841 run scoreboard players set ワールドボーダー：841x841 BlockCount -1
+execute if score #mal BlockCount matches 842 run scoreboard players set ワールドボーダー：842x842 BlockCount -1
+execute if score #mal BlockCount matches 843 run scoreboard players set ワールドボーダー：843x843 BlockCount -1
+execute if score #mal BlockCount matches 844 run scoreboard players set ワールドボーダー：844x844 BlockCount -1
+execute if score #mal BlockCount matches 845 run scoreboard players set ワールドボーダー：845x845 BlockCount -1
+execute if score #mal BlockCount matches 846 run scoreboard players set ワールドボーダー：846x846 BlockCount -1
+execute if score #mal BlockCount matches 847 run scoreboard players set ワールドボーダー：847x847 BlockCount -1
+execute if score #mal BlockCount matches 848 run scoreboard players set ワールドボーダー：848x848 BlockCount -1
+execute if score #mal BlockCount matches 849 run scoreboard players set ワールドボーダー：849x849 BlockCount -1
+execute if score #mal BlockCount matches 850 run scoreboard players set ワールドボーダー：850x850 BlockCount -1
+execute if score #mal BlockCount matches 851 run scoreboard players set ワールドボーダー：851x851 BlockCount -1
+execute if score #mal BlockCount matches 852 run scoreboard players set ワールドボーダー：852x852 BlockCount -1
+execute if score #mal BlockCount matches 853 run scoreboard players set ワールドボーダー：853x853 BlockCount -1
+execute if score #mal BlockCount matches 854 run scoreboard players set ワールドボーダー：854x854 BlockCount -1
+execute if score #mal BlockCount matches 855 run scoreboard players set ワールドボーダー：855x855 BlockCount -1
+execute if score #mal BlockCount matches 856 run scoreboard players set ワールドボーダー：856x856 BlockCount -1
+execute if score #mal BlockCount matches 857 run scoreboard players set ワールドボーダー：857x857 BlockCount -1
+execute if score #mal BlockCount matches 858 run scoreboard players set ワールドボーダー：858x858 BlockCount -1
+execute if score #mal BlockCount matches 859 run scoreboard players set ワールドボーダー：859x859 BlockCount -1
+execute if score #mal BlockCount matches 860 run scoreboard players set ワールドボーダー：860x860 BlockCount -1
+execute if score #mal BlockCount matches 861 run scoreboard players set ワールドボーダー：861x861 BlockCount -1
+execute if score #mal BlockCount matches 862 run scoreboard players set ワールドボーダー：862x862 BlockCount -1
+execute if score #mal BlockCount matches 863 run scoreboard players set ワールドボーダー：863x863 BlockCount -1
+execute if score #mal BlockCount matches 864 run scoreboard players set ワールドボーダー：864x864 BlockCount -1
+execute if score #mal BlockCount matches 865 run scoreboard players set ワールドボーダー：865x865 BlockCount -1
+execute if score #mal BlockCount matches 866 run scoreboard players set ワールドボーダー：866x866 BlockCount -1
+execute if score #mal BlockCount matches 867 run scoreboard players set ワールドボーダー：867x867 BlockCount -1
+execute if score #mal BlockCount matches 868 run scoreboard players set ワールドボーダー：868x868 BlockCount -1
+execute if score #mal BlockCount matches 869 run scoreboard players set ワールドボーダー：869x869 BlockCount -1
+execute if score #mal BlockCount matches 870 run scoreboard players set ワールドボーダー：870x870 BlockCount -1
+execute if score #mal BlockCount matches 871 run scoreboard players set ワールドボーダー：871x871 BlockCount -1
+execute if score #mal BlockCount matches 872 run scoreboard players set ワールドボーダー：872x872 BlockCount -1
+execute if score #mal BlockCount matches 873 run scoreboard players set ワールドボーダー：873x873 BlockCount -1
+execute if score #mal BlockCount matches 874 run scoreboard players set ワールドボーダー：874x874 BlockCount -1
+execute if score #mal BlockCount matches 875 run scoreboard players set ワールドボーダー：875x875 BlockCount -1
+execute if score #mal BlockCount matches 876 run scoreboard players set ワールドボーダー：876x876 BlockCount -1
+execute if score #mal BlockCount matches 877 run scoreboard players set ワールドボーダー：877x877 BlockCount -1
+execute if score #mal BlockCount matches 878 run scoreboard players set ワールドボーダー：878x878 BlockCount -1
+execute if score #mal BlockCount matches 879 run scoreboard players set ワールドボーダー：879x879 BlockCount -1
+execute if score #mal BlockCount matches 880 run scoreboard players set ワールドボーダー：880x880 BlockCount -1
+execute if score #mal BlockCount matches 881 run scoreboard players set ワールドボーダー：881x881 BlockCount -1
+execute if score #mal BlockCount matches 882 run scoreboard players set ワールドボーダー：882x882 BlockCount -1
+execute if score #mal BlockCount matches 883 run scoreboard players set ワールドボーダー：883x883 BlockCount -1
+execute if score #mal BlockCount matches 884 run scoreboard players set ワールドボーダー：884x884 BlockCount -1
+execute if score #mal BlockCount matches 885 run scoreboard players set ワールドボーダー：885x885 BlockCount -1
+execute if score #mal BlockCount matches 886 run scoreboard players set ワールドボーダー：886x886 BlockCount -1
+execute if score #mal BlockCount matches 887 run scoreboard players set ワールドボーダー：887x887 BlockCount -1
+execute if score #mal BlockCount matches 888 run scoreboard players set ワールドボーダー：888x888 BlockCount -1
+execute if score #mal BlockCount matches 889 run scoreboard players set ワールドボーダー：889x889 BlockCount -1
+execute if score #mal BlockCount matches 890 run scoreboard players set ワールドボーダー：890x890 BlockCount -1
+execute if score #mal BlockCount matches 891 run scoreboard players set ワールドボーダー：891x891 BlockCount -1
+execute if score #mal BlockCount matches 892 run scoreboard players set ワールドボーダー：892x892 BlockCount -1
+execute if score #mal BlockCount matches 893 run scoreboard players set ワールドボーダー：893x893 BlockCount -1
+execute if score #mal BlockCount matches 894 run scoreboard players set ワールドボーダー：894x894 BlockCount -1
+execute if score #mal BlockCount matches 895 run scoreboard players set ワールドボーダー：895x895 BlockCount -1
+execute if score #mal BlockCount matches 896 run scoreboard players set ワールドボーダー：896x896 BlockCount -1
+execute if score #mal BlockCount matches 897 run scoreboard players set ワールドボーダー：897x897 BlockCount -1
+execute if score #mal BlockCount matches 898 run scoreboard players set ワールドボーダー：898x898 BlockCount -1
+execute if score #mal BlockCount matches 899 run scoreboard players set ワールドボーダー：899x899 BlockCount -1
+execute if score #mal BlockCount matches 900 run scoreboard players set ワールドボーダー：900x900 BlockCount -1

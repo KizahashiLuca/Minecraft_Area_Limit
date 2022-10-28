@@ -11,7 +11,8 @@
 advancement grant @a only mal:blocks/yellow_concrete
 
 ## Set common scoreboard
-function mal:block_count
+function mal:block_count/main
+function mal:statistics/main
 
 ## Send messages
 execute if score ブロック数 BlockCount matches 1..10 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.yellow_concrete","color":"green"},{"text":"を手に入れました。"},{"text":"広さが1ブロック分広がります。"}]
