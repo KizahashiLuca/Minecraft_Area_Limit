@@ -32,7 +32,8 @@ execute if score #mal Death matches 2 run worldborder add -2
 execute if score #mal Death matches 1 run worldborder add -1
 
 ## Send messages
-tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" 死亡したため、"},{"score":{"name":"#mal","objective":"Death"}},{"text":"ブロック分狭まります。"}]
+execute if score #mal Death matches 16.. run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" 死亡したため、16ブロック分狭まります。"}]
+execute if score #mal Death matches ..15 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" 死亡したため、"},{"score":{"name":"#mal","objective":"Death"}},{"text":"ブロック分狭まります。"}]
 
 ## Set common scoreboard
 function mal:statistics/main
