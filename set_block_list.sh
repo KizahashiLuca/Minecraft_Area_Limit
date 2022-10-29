@@ -51,6 +51,7 @@ while read R; do
   col[33]=`echo ${R} | cut -d , -f 34`  # prefix_waxed_exposed
   col[34]=`echo ${R} | cut -d , -f 35`  # prefix_waxed_weathered
   col[35]=`echo ${R} | cut -d , -f 36`  # prefix_waxed_oxidized
+  col[36]=`echo ${R} | cut -d , -f 37`  # add_nether_ore
 
   ## Skip first row
   if [ "${col[0]}" = "item" ]; then
@@ -58,7 +59,7 @@ while read R; do
   fi
 
   ## Loop item
-  for i in `seq 0 1 29`; do
+  for i in `seq 0 1 36`; do
     declare -a ItemArray=()
 
     ## not_self
@@ -237,6 +238,11 @@ while read R; do
     if [ "${col[35]}" = "x" ]; then
       ItemArray+=( "waxed_oxidized_${col[0]}" )
     fi
+
+    ## add_nether_ore
+    if [ "${col[36]}" = "x" ]; then
+      ItemArray+=( "nether_${col[0]}_ore" )
+    fi
   done
 
   ## Add lines
@@ -336,6 +342,12 @@ execute if score ブロック数 BlockCount matches 271..280 run tellraw @a ["",
 execute if score ブロック数 BlockCount matches 281..290 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、29ブロック分広がります。"}]
 execute if score ブロック数 BlockCount matches 291..300 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、30ブロック分広がります。"}]
 execute if score ブロック数 BlockCount matches 301..310 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、31ブロック分広がります。"}]
+execute if score ブロック数 BlockCount matches 311..320 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、32ブロック分広がります。"}]
+execute if score ブロック数 BlockCount matches 321..330 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、33ブロック分広がります。"}]
+execute if score ブロック数 BlockCount matches 331..340 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、34ブロック分広がります。"}]
+execute if score ブロック数 BlockCount matches 341..350 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、35ブロック分広がります。"}]
+execute if score ブロック数 BlockCount matches 351..360 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、36ブロック分広がります。"}]
+execute if score ブロック数 BlockCount matches 361..370 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.${ItemArray[$i]}","color":"green"},{"text":"を入手したため、37ブロック分広がります。"}]
 EOS
   done
 done < ${BlockList}

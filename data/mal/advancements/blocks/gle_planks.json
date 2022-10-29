@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks",
+  "display": {
+    "icon": {
+      "item": "minecraft:gle_planks"
+    },
+    "title": {
+      "translate": "block.minecraft.gle_planks"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "gle_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:gle_planks"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["gle_planks"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/gle_planks"
+  }
+}

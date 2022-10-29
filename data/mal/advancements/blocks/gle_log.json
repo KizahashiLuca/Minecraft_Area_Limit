@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks/gle_planks",
+  "display": {
+    "icon": {
+      "item": "minecraft:gle_log"
+    },
+    "title": {
+      "translate": "block.minecraft.gle_log"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "gle_log": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:gle_log"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["gle_log"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/gle_log"
+  }
+}

@@ -16,4 +16,4 @@ execute if score ブロック数 BlockCount matches 61..120 run function mal:blo
 execute if score ブロック数 BlockCount matches 121..180 run function mal:block_count/p3
 execute if score ブロック数 BlockCount matches 181..240 run function mal:block_count/p4
 execute if score ブロック数 BlockCount matches 241..300 run function mal:block_count/p5
-execute if score ブロック数 BlockCount matches 301..310 run worldborder add 31
+execute if score ブロック数 BlockCount matches 301..360 run function mal:block_count/p6

@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks",
+  "display": {
+    "icon": {
+      "item": "minecraft:ancient_debris"
+    },
+    "title": {
+      "translate": "block.minecraft.ancient_debris"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "ancient_debris": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:ancient_debris"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["ancient_debris"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/ancient_debris"
+  }
+}

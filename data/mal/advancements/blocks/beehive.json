@@ -1,0 +1,36 @@
+{
+  "parent": "mal:blocks",
+  "display": {
+    "icon": {
+      "item": "minecraft:beehive"
+    },
+    "title": {
+      "translate": "block.minecraft.beehive"
+    },
+    "description": "",
+    "announce_to_chat": false,
+    "frame": "task",
+    "hidden": false,
+    "show_toast": false
+  },
+  "criteria": {
+    "beehive": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:beehive"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["beehive"]
+  ],
+  "rewards": {
+    "function": "mal:blocks/beehive"
+  }
+}
