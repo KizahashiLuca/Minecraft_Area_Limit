@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/note_block",
   "display": {
     "icon": {
       "item": "minecraft:jukebox"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/red_mushroom_block",
   "display": {
     "icon": {
       "item": "minecraft:brown_mushroom_block"

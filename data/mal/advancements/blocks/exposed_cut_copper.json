@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/cut_copper",
+  "parent": "mal:blocks/exposed_copper",
   "display": {
     "icon": {
       "item": "minecraft:exposed_cut_copper"

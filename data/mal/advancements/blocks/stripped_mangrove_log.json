@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/mangrove_log",
+  "parent": "mal:blocks/mangrove_wood",
   "display": {
     "icon": {
       "item": "minecraft:stripped_mangrove_log"

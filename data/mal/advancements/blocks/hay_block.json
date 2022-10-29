@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/moss_block",
   "display": {
     "icon": {
       "item": "minecraft:hay_block"

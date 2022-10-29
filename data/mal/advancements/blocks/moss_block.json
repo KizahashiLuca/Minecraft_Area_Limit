@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/jack_o_lantern",
   "display": {
     "icon": {
       "item": "minecraft:moss_block"

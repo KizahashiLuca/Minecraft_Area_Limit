@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/polished_deepslate",
+  "parent": "mal:blocks/cracked_deepslate_tiles",
   "display": {
     "icon": {
       "item": "minecraft:chiseled_deepslate"

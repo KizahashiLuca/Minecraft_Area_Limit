@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/stripped_jungle_log",
+  "parent": "mal:blocks/jungle_log",
   "display": {
     "icon": {
       "item": "minecraft:jungle_wood"

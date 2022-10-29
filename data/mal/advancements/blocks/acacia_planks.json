@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/stripped_acacia_wood",
   "display": {
     "icon": {
       "item": "minecraft:acacia_planks"

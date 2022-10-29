@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/cartography_table",
   "display": {
     "icon": {
       "item": "minecraft:fletching_table"

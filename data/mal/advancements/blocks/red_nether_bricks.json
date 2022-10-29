@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/chiseled_nether_bricks",
   "display": {
     "icon": {
       "item": "minecraft:red_nether_bricks"

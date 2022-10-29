@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/brain_coral_block",
+  "parent": "mal:blocks/dead_tube_coral_block",
   "display": {
     "icon": {
       "item": "minecraft:dead_brain_coral_block"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/oxidized_cut_copper",
   "display": {
     "icon": {
       "item": "minecraft:waxed_copper_block"

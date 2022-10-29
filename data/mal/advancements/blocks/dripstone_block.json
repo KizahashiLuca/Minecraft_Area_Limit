@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/amethyst_block",
   "display": {
     "icon": {
       "item": "minecraft:dripstone_block"

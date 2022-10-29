@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/warped_wart_block",
   "display": {
     "icon": {
       "item": "minecraft:shroomlight"

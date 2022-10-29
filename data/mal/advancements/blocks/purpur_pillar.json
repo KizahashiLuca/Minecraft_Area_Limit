@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/purpur_block",
   "display": {
     "icon": {
       "item": "minecraft:purpur_pillar"

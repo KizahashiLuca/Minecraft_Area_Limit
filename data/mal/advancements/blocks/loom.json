@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/smithing_table",
   "display": {
     "icon": {
       "item": "minecraft:loom"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/spruce_planks",
+  "parent": "mal:blocks",
   "display": {
     "icon": {
       "item": "minecraft:spruce_log"

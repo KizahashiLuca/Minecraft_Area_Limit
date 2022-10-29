@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/magenta_terracotta",
+  "parent": "mal:blocks/cyan_terracotta",
   "display": {
     "icon": {
       "item": "minecraft:light_blue_terracotta"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/stripped_oak_log",
+  "parent": "mal:blocks/oak_log",
   "display": {
     "icon": {
       "item": "minecraft:oak_wood"

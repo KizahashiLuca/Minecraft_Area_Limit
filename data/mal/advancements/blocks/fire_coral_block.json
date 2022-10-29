@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/bubble_coral_block",
   "display": {
     "icon": {
       "item": "minecraft:fire_coral_block"

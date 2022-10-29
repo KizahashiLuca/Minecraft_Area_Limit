@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/beehive",
   "display": {
     "icon": {
       "item": "minecraft:honeycomb_block"

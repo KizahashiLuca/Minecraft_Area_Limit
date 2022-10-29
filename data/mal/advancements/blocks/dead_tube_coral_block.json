@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/tube_coral_block",
+  "parent": "mal:blocks/horn_coral_block",
   "display": {
     "icon": {
       "item": "minecraft:dead_tube_coral_block"

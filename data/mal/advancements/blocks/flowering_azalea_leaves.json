@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/azalea_leaves",
   "display": {
     "icon": {
       "item": "minecraft:flowering_azalea_leaves"

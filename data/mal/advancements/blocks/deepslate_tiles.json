@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/cracked_deepslate_bricks",
   "display": {
     "icon": {
       "item": "minecraft:deepslate_tiles"

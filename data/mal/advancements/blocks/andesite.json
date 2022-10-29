@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/polished_diorite",
   "display": {
     "icon": {
       "item": "minecraft:andesite"

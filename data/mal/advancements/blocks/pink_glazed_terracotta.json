@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/lime_glazed_terracotta",
+  "parent": "mal:blocks/magenta_glazed_terracotta",
   "display": {
     "icon": {
       "item": "minecraft:pink_glazed_terracotta"

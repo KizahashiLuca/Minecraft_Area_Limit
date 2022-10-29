@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/warped_nylium",
   "display": {
     "icon": {
       "item": "minecraft:nether_bricks"

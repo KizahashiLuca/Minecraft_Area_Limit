@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/chiseled_quartz_block",
   "display": {
     "icon": {
       "item": "minecraft:quartz_bricks"

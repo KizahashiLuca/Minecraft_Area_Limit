@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/polished_basalt",
+  "parent": "mal:blocks/basalt",
   "display": {
     "icon": {
       "item": "minecraft:smooth_basalt"

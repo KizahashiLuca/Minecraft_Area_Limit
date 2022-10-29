@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/sculk",
   "display": {
     "icon": {
       "item": "minecraft:sculk_catalyst"

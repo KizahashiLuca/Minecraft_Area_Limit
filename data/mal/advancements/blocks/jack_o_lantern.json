@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/carved_pumpkin",
   "display": {
     "icon": {
       "item": "minecraft:jack_o_lantern"

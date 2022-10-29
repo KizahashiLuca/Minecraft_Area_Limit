@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/dark_prismarine",
   "display": {
     "icon": {
       "item": "minecraft:sponge"

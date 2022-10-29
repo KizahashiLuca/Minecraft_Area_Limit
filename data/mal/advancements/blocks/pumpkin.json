@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/melon",
   "display": {
     "icon": {
       "item": "minecraft:pumpkin"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/stripped_birch_wood",
+  "parent": "mal:blocks/birch_planks",
   "display": {
     "icon": {
       "item": "minecraft:birch_leaves"

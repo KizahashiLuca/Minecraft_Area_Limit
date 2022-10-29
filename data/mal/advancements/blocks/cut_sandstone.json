@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/sandstone",
+  "parent": "mal:blocks/chiseled_sandstone",
   "display": {
     "icon": {
       "item": "minecraft:cut_sandstone"

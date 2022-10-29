@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/mud",
   "display": {
     "icon": {
       "item": "minecraft:packed_mud"

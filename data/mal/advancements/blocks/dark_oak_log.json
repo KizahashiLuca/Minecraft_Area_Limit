@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/dark_oak_planks",
+  "parent": "mal:blocks",
   "display": {
     "icon": {
       "item": "minecraft:dark_oak_log"

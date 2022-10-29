@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/tube_coral_block",
   "display": {
     "icon": {
       "item": "minecraft:brain_coral_block"

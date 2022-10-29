@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/blue_shulker_box",
+  "parent": "mal:blocks/black_shulker_box",
   "display": {
     "icon": {
       "item": "minecraft:brown_shulker_box"

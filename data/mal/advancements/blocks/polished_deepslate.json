@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/deepslate",
+  "parent": "mal:blocks/cobbled_deepslate",
   "display": {
     "icon": {
       "item": "minecraft:polished_deepslate"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/crimson_planks",
+  "parent": "mal:blocks",
   "display": {
     "icon": {
       "item": "minecraft:crimson_stem"

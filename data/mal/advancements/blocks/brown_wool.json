@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/blue_wool",
+  "parent": "mal:blocks/black_wool",
   "display": {
     "icon": {
       "item": "minecraft:brown_wool"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/prismarine",
   "display": {
     "icon": {
       "item": "minecraft:prismarine_bricks"

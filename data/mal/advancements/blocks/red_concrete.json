@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/green_concrete",
+  "parent": "mal:blocks/brown_concrete",
   "display": {
     "icon": {
       "item": "minecraft:red_concrete"

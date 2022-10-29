@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/dirt",
   "display": {
     "icon": {
       "item": "minecraft:coarse_dirt"

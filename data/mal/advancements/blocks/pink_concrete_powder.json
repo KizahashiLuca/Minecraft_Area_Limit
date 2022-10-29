@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/lime_concrete_powder",
+  "parent": "mal:blocks/magenta_concrete_powder",
   "display": {
     "icon": {
       "item": "minecraft:pink_concrete_powder"

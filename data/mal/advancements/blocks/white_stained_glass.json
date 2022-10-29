@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/tinted_glass",
   "display": {
     "icon": {
       "item": "minecraft:white_stained_glass"

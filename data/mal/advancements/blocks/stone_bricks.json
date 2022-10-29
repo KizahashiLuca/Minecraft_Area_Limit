@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/smooth_stone",
   "display": {
     "icon": {
       "item": "minecraft:stone_bricks"

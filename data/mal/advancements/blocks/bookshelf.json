@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/lodestone",
   "display": {
     "icon": {
       "item": "minecraft:bookshelf"

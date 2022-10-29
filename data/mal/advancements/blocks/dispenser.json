@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/observer",
   "display": {
     "icon": {
       "item": "minecraft:dispenser"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/birch_planks",
+  "parent": "mal:blocks",
   "display": {
     "icon": {
       "item": "minecraft:birch_log"

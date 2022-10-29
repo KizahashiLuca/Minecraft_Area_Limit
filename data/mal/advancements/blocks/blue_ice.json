@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/packed_ice",
   "display": {
     "icon": {
       "item": "minecraft:blue_ice"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/crafting_table",
   "display": {
     "icon": {
       "item": "minecraft:cartography_table"

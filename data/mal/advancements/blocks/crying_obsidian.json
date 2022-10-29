@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/obsidian",
   "display": {
     "icon": {
       "item": "minecraft:crying_obsidian"

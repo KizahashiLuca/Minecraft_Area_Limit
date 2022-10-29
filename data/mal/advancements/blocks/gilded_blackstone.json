@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/chiseled_polished_blackstone",
   "display": {
     "icon": {
       "item": "minecraft:gilded_blackstone"

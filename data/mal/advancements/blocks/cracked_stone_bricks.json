@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/mossy_stone_bricks",
+  "parent": "mal:blocks/stone_bricks",
   "display": {
     "icon": {
       "item": "minecraft:cracked_stone_bricks"

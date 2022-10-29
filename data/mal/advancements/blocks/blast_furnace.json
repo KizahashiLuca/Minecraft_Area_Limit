@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/smoker",
   "display": {
     "icon": {
       "item": "minecraft:blast_furnace"

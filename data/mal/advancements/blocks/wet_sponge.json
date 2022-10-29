@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/sponge",
   "display": {
     "icon": {
       "item": "minecraft:wet_sponge"

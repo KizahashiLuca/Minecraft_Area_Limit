@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/orange_stained_glass",
+  "parent": "mal:blocks/purple_stained_glass",
   "display": {
     "icon": {
       "item": "minecraft:magenta_stained_glass"

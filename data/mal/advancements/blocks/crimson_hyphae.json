@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/stripped_crimson_stem",
+  "parent": "mal:blocks/crimson_stem",
   "display": {
     "icon": {
       "item": "minecraft:crimson_hyphae"

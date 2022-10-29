@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/quartz_pillar",
   "display": {
     "icon": {
       "item": "minecraft:smooth_quartz"

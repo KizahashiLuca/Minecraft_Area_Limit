@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/stripped_oak_wood",
+  "parent": "mal:blocks/oak_planks",
   "display": {
     "icon": {
       "item": "minecraft:oak_leaves"

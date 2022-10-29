@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/sticky_piston",
   "display": {
     "icon": {
       "item": "minecraft:observer"

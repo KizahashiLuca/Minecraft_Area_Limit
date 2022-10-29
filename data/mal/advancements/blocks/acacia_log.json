@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/acacia_planks",
+  "parent": "mal:blocks",
   "display": {
     "icon": {
       "item": "minecraft:acacia_log"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/warped_hyphae",
+  "parent": "mal:blocks/stripped_warped_stem",
   "display": {
     "icon": {
       "item": "minecraft:stripped_warped_hyphae"

@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks",
+  "parent": "mal:blocks/soul_sand",
   "display": {
     "icon": {
       "item": "minecraft:soul_soil"

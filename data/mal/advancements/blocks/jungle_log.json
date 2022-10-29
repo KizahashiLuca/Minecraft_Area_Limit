@@ -1,5 +1,5 @@
 {
-  "parent": "mal:blocks/jungle_planks",
+  "parent": "mal:blocks",
   "display": {
     "icon": {
       "item": "minecraft:jungle_log"
