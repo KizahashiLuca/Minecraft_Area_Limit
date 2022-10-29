@@ -7,8 +7,6 @@
 ## Licensed under CC BY-SA 4.0.
 ################################
 
-## Send Title Message
-function mei:unload/message
 ## Remove scoreboards
 function mei:unload/remove_scoreboard
 ## Remove storages

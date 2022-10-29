@@ -11,3 +11,6 @@
 scoreboard objectives add GameTime minecraft.custom:minecraft.play_time
 scoreboard objectives add Reseted dummy
 execute if entity @p[scores={GameTime=1}] at @p[scores={GameTime=1}] unless score #mal Reseted matches 1 run function mal:start
+
+## Detect death
+execute if entity @p[scores={Death=1..}] run function mal:death
