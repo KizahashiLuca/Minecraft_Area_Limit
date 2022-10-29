@@ -7,9 +7,6 @@
 ## Licensed under CC BY-SA 4.0.
 ################################
 
-## Grant advancements
-advancement grant @a only mal:blocks/chiseled_polished_blackstone
-
 ## Set common scoreboard
 function mal:block_count/main
 function mal:statistics/main
@@ -50,3 +47,5 @@ execute if score ブロック数 BlockCount matches 311..320 run tellraw @a ["",
 execute if score ブロック数 BlockCount matches 321..330 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.chiseled_polished_blackstone","color":"green"},{"text":"を入手したため、33ブロック分広がります。"}]
 execute if score ブロック数 BlockCount matches 331..340 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.chiseled_polished_blackstone","color":"green"},{"text":"を入手したため、34ブロック分広がります。"}]
 execute if score ブロック数 BlockCount matches 341..350 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.chiseled_polished_blackstone","color":"green"},{"text":"を入手したため、35ブロック分広がります。"}]
+execute if score ブロック数 BlockCount matches 351..360 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.chiseled_polished_blackstone","color":"green"},{"text":"を入手したため、36ブロック分広がります。"}]
+execute if score ブロック数 BlockCount matches 361..370 run tellraw @a ["",{"text":"[広さ縛り]","color":"aqua"},{"text":" "},{"translate":"block.minecraft.chiseled_polished_blackstone","color":"green"},{"text":"を入手したため、37ブロック分広がります。"}]

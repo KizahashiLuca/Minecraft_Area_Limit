@@ -303,9 +303,6 @@ EOS
 ## Licensed under CC BY-SA 4.0.
 ################################
 
-## Grant advancements
-advancement grant @a only mal:blocks/${ItemArray[$i]}
-
 ## Set common scoreboard
 function mal:block_count/main
 function mal:statistics/main
